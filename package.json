@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "main": "src/index.ts",
   "type": "module",
+  "license": "MIT",
   "scripts": {
     "build": "netlify-extension build --all",
     "dev": "netlify-extension dev --open",
