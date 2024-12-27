@@ -1,8 +1,8 @@
 # yaml-language-server: $schema=https://sdk.netlify.com/sdk/config-schema.json
 config:
-  slug: netlify-sonda-extension
+  slug: uh-mfu9u-netlify-sonda-extension
   name: netlify-sonda-extension
-  
+
   scopes:
     site: ["read", "write"]
     ui: ["read", "write"]
@@ -14,5 +14,3 @@ config:
     surfaces:
       - extension-team-configuration
       - extension-top-level-site-configuration
-
-
